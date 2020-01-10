@@ -69,4 +69,4 @@ const Calculator = function() {
 
 const calculator = new Calculator();
 
-console.log(calculator.evaluate('3+2-5+32+85'));
+console.log(calculator.evaluate('2+3*4/3-6/3*3+8'));
