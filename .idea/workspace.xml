@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="278fd149-af8e-4afa-bfa6-224c29645af7" name="Default Changelist" comment="" />
+    <list default="true" id="278fd149-af8e-4afa-bfa6-224c29645af7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3 kyu/calculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/3 kyu/calculator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1W5FsfPrBr74bVkfhk8J90RqNpN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -33,6 +42,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -60,6 +70,7 @@
       <workItem from="1578465357727" duration="17000" />
       <workItem from="1578475720557" duration="3784000" />
       <workItem from="1578481674095" duration="10000" />
+      <workItem from="1578660724364" duration="1307000" />
     </task>
     <servers />
   </component>
@@ -67,9 +78,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="849" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1578481674258">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="1061" y="300" key="com.intellij.ide.util.TipDialog" timestamp="1578660737186">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="849" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578481674258" />
+    <state x="1061" y="300" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578660737186" />
   </component>
 </project>
